@@ -2,12 +2,15 @@
 
 # Liberland Cybersecurity Team
 
+**This team is independent of the production team and reports directly to the provisional government of Free Republic of Liberland.**
+
 Goals of the security team:
 * Resolve reported security issues in a Security Advisory
 * Provide assistance in resolving security issues
 * Help the infrastructure team to keep the Liberland infrastructure secure
 
-## PGP Public key
+
+### PGP Public key
 
 * Key fingerprint: `010A 1315 7648 9A63 F9AB  F00A B009 6F78 C6D5 6A9F`
 * Email: security@liberland.io
